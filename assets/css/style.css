@@ -35,5 +35,10 @@ img {
   object-fit: cover;
 }
 
+ul {
+  list-style:upper-roman;
+  font-size: 18px;
+}
+
 
 
